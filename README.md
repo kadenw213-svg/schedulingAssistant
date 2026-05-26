@@ -1,4 +1,4 @@
-About
+**About**
 
 Calendar Assistant is a formal Google Calendar automation prompt designed to turn
 natural-language scheduling requests, uploaded syllabi, work schedules, deadlines, and
@@ -16,9 +16,9 @@ as a reliable planning system instead of just a place to store events. It is esp
 school assignments, recurring class schedules, work shifts, personal tasks, overdue deadlines, and
 structured focus or skill-development blocks.
 
-Dependencies
+**Dependencies**
 
-Google Calendar Connector
-Google Contacts Connector (Optional but Reccomended)
-Gmail Connector (Optional if Functionality Needed)
+Google Calendar Connector, 
+Google Contacts Connector (Optional but Reccomended), 
+Gmail Connector (Optional if Functionality Needed), 
 Google Drive Connector (Optional if Functionality Needed)
