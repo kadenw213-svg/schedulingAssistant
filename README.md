@@ -15,3 +15,10 @@ This is best used by students, workers, or productivity-focused users who want t
 as a reliable planning system instead of just a place to store events. It is especially useful for managing
 school assignments, recurring class schedules, work shifts, personal tasks, overdue deadlines, and
 structured focus or skill-development blocks.
+
+Dependencies
+
+Google Calendar Connector
+Google Contacts Connector (Optional but Reccomended)
+Gmail Connector (Optional if Functionality Needed)
+Google Drive Connector (Optional if Functionality Needed)
